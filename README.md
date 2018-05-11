@@ -1,1 +1,2 @@
-# Snips-interaction
+# Snips-aléatoire
+aleatoire-Skill pour Snips.ai
